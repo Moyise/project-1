@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(24, 24, 24);
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+
+h1 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+table {
+    color: white;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: aqua;
+    border-style: none;
+    border-bottom-style: solid;
+    border-bottom-color: aqua;
+}    
+li {
+    color: white;
+}
+label {
+    color: white;
+}
